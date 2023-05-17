@@ -1,0 +1,107 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PvScore",
+            "request": "launch",
+            "mainClass": "quiz.application.PvScore",
+            "projectName": "Quiz-Application-Using-Java-master_24d7b8b8"
+        },
+        {
+            "type": "java",
+            "name": "Score",
+            "request": "launch",
+            "mainClass": "quiz.application.Score",
+            "projectName": "Quiz-Application-Using-Java-master_24d7b8b8"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "quiz.application.Quiz",
+            "projectName": "Quiz-Application-Using-Java-master_24d7b8b8"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "quiz.application.Login",
+            "projectName": "Quiz-Application-Using-Java-master_24d7b8b8"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "quiz.application.Quiz",
+            "projectName": "Quiz-Application-Using-Java-master_79f2721a"
+        },
+        {
+            "type": "java",
+            "name": "PvScore",
+            "request": "launch",
+            "mainClass": "quiz.application.PvScore",
+            "projectName": "Quiz-Application-Using-Java-master_79f2721a"
+        },
+        {
+            "type": "java",
+            "name": "Score",
+            "request": "launch",
+            "mainClass": "quiz.application.Score",
+            "projectName": "Quiz-Application-Using-Java-master_79f2721a"
+        },
+        {
+            "type": "java",
+            "name": "adminp",
+            "request": "launch",
+            "mainClass": "quiz.application.adminp",
+            "projectName": "Quiz-Application-Using-Java-master_79f2721a"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "quiz.application.Login",
+            "projectName": "Quiz-Application-Using-Java-master_79f2721a"
+        },
+        {
+            "type": "java",
+            "name": "Score",
+            "request": "launch",
+            "mainClass": "quiz.application.Score",
+            "projectName": "Quiz-Application-Using-Java-master_78e02efc"
+        },
+        {
+            "type": "java",
+            "name": "Rules",
+            "request": "launch",
+            "mainClass": "quiz.application.Rules",
+            "projectName": "Quiz-Application-Using-Java-master_78e02efc"
+        },
+        {
+            "type": "java",
+            "name": "admin",
+            "request": "launch",
+            "mainClass": "quiz.application.admin",
+            "projectName": "Quiz-Application-Using-Java-master_78e02efc"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "quiz.application.Login",
+            "projectName": "Quiz-Application-Using-Java-master_78e02efc"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
